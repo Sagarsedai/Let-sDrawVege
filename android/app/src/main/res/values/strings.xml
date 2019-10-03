@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">どんな野菜知ってる？</string>
+    <string name="prediction">たぶん</string>
+    <string name="probability">予測値（%）</string>
+    <string name="timecost">AIが考えた時間</string>
+    <string name="timecost_value">%1$d ms</string>
+    <string name="empty">--</string>
+    <string name="detect">ナニかな？</string>
+    <string name="clear">もう一回</string>
+    <string name="please_write_a_digit">Please write a digit in the box above.</string>
+    <string name="failed_to_create_classifier">Failed to create classifier.</string>
+</resources>
