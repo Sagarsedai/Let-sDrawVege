@@ -8,7 +8,7 @@ public class Result {
 
     public Result(float[] probs, long timeCost) {
         mNumber = argmax(probs);
-        mProbability = probs[mNumber]*100;
+        mProbability = probs[mNumber]*100; // %
         mTimeCost = timeCost;
     }
 
